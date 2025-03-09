@@ -317,3 +317,9 @@ NonLinear:
   description: "5-axis printer designed for precision and complex parts"
   repository: "https://github.com/Jyst7/NonLinear"
   file_name: nonlinear.md
+
+ProtoCrafter:
+  title: "ProtoCrafter"
+  description: "A 3D printer which you can easily build and deconstruct."
+  repository: "https://github.com/didoub74-off/infill-didoub74"
+  file_name: ProtoCrafter.md
